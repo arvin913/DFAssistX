@@ -1,0 +1,167 @@
+﻿{
+    "app-name": "Duty/FATE Assist X",
+
+
+    "unknown-instance": "未知副本 ({0})",
+    "unknown-roulette": "未知随机 ({0})",
+    "unknown-area": "未知区域 ({0})",
+    "unknown-fate": "未知FATE ({0})",
+
+
+    "notification-app-updated": "版本 {0} 已更新",
+    "notification-queue-matched": "< {0} > 匹配完成!",
+
+
+    "tweet-fate-occured": "< {0} > 临危受命出现!",
+    "tweet-queue-matched": "< {0} > 匹配完成!",
+
+
+    "fate-preset-animus-SkyfireI": "炎天一卷",
+    "fate-preset-animus-SkyfireII": "炎天二卷",
+    "fate-preset-animus-NetherfireI": "炎狱一卷",
+    "fate-preset-animus-SkyfallI": "水天一卷",
+    "fate-preset-animus-SkyfallII": "水天二卷",
+    "fate-preset-animus-NetherfallI": "水狱一卷",
+    "fate-preset-animus-SkywindI": "风天一卷",
+    "fate-preset-animus-SkywindII": "风天二卷",
+    "fate-preset-animus-SkyearthI": "土天一卷",
+
+
+    "ui-notifymenustrip-open": "打开",
+    "ui-notifymenustrip-close": "退出",
+
+    "ui-topsetting-process": "游戏进程:",
+    "ui-topsetting-select": "手动",
+    "ui-topsetting-reset": "重设",
+
+    "ui-tabcontrol-settings": "设置",
+    "ui-tabcontrol-fate": "临危受命",
+    "ui-tabcontrol-logs": "日志",
+    "ui-tabcontrol-info": "关于",
+
+    "ui-settings-title": "基本设置",
+    "ui-settings-overlay-use": "使用悬浮窗",
+    "ui-settings-overlay-tooltip": "悬浮窗",
+    "ui-settings-overlay-reset": "重设",
+    "ui-settings-startupshow": "启动程序时显示主界面",
+    "ui-settings-autohide": "在副本里面自动隐藏悬浮窗(优雷卡除外)",
+    "ui-settings-iconflash": "当副本匹配完成/FATE出现时闪烁",
+    "ui-settings-cheatroulette": "使用随机任务时显示真实副本",
+    "ui-settings-tweet-title": "推特通知提醒",
+    "ui-settings-tweet-activate": "激活",
+    "ui-settings-dutyplaysound": "副本声音提示",
+    "ui-settings-fateplaysound": "FATE声音提示",
+    "ui-settings-soundlocation": "选择声音",
+    "ui-settings-tweet-about": "当副本匹配/FATE刷新时 \n发送推特给指定账号。\n输入推特账号 不含符号@.",
+
+    "ui-fate-selectall": "全选",
+    "ui-fate-unselectall": "取消全选",
+    "ui-fate-preset": "预设",
+    "ui-fate-apply": "应用",
+    "ui-fate-about": "选择要接受的通知, 然后点击上方应用按钮。\n仅当角色位于FATE刷新区域时才会发送通知。",
+
+    "ui-logs-copy": "复制日志",
+    "ui-logs-clear": "清除",
+
+    "ui-info-about": "[贡献者]\n유채색\nLaiglinne\nHibiyasleep\nAlex00728\n紫水栈桥《众神之上》部队\n\n[版权所有]\n(C)2010 - 2019 SQUARE ENIX CO., LTD All Rights Reserved.\nKorea Published by EYEDENTITY Entertainment.\n上海数龙科技有限公司",
+
+    "ui-msgbox-title-info": "DFA 通知",
+    "ui-msgbox-title-warning": "DFA 警告",
+    "ui-msgbox-title-error": "DFA 错误",
+
+    "ui-language-changed": "语言切换为中文。\n一些设置需要重启应用程序才能实行。\n请重启应用程序。",
+
+    "ui-clipboard-copied": "已复制到粘贴板",
+
+    "ui-cheat-roulette-confirm": "This function is disabled by default to prevent abuse.\nPlease refrain from deliberately rejecting a specific dislike duty.\n\nDo you still want to enable it?",
+    "ui-cheat-roulette-enabled": "Enabled.\nPlease DON'T deliberately reject a specific dislike duty.\n\nThis feature is automatically disabled when the program restarts.",
+
+    "ui-clear-log-confirm": "清除日志?",
+
+    "ui-fate-selection-saved": "FATE 通知已设置",
+    "ui-fate-preset-applied": "FATE 配置已更改",
+
+    "ui-updating": "应用升级中...\n{0}",
+
+    "ui-app-crashed": "未知原因，程序退出\n\n错误: {0}",
+
+
+    "overlay-announcement": "",
+    "overlay-waiting-connection": "正在等待连接游戏...",
+    "overlay-not-queuing": "尚未排本",
+    "overlay-in-eureka": "正在肝优雷卡...",
+    "overlay-duty-count-unknown": "正在排本",
+    "overlay-duty-count": "{0}个队伍正在匹配",
+    "overlay-queue-waiting-party": "正在匹配队伍: {0} / {1} / {2}",
+    "overlay-queue-waiting": "正在检索信息...",
+    "overlay-queue-order": "职能等待顺序: {0}",
+    "overlay-roulette": "随机任务",
+    "overlay-queue-waiting-confirm": "正在等待你确认",
+    "overlay-queue-matched": "出发准备完毕!",
+    "overlay-queue-confirming": "正在检查队员状态...",
+    "overlay-fate-occured": "临危受命出现!",
+
+
+    "l-process-set-success": "P: 已选游戏进程: {0}",
+    "l-process-set-failed": "P: 游戏进程设置失败",
+    "l-process-finding": "P: 正在查找游戏进程...",
+    "l-process-found-nothing": "P: 找不到游戏进程",
+    "l-process-found-multiple": "P: 两个或以上的游戏进程正在运行",
+
+    "l-tweet-failed-request": "T: 请求推特服务时发生错误。",
+    "l-tweet-failed-general": "T: 发送推特通知失败。",
+    "l-tweet-success": "T: 推特发送成功！",
+
+    "l-web-request-failed": "W: 请求网络服务时发生错误",
+
+    "l-updater-current-version": "U: 当前版本： {0}",
+    "l-updater-latest-version": "U: 最新版本： {0}",
+    "l-updater-is-latest": "U: 正在使用最新版本。",
+    "l-updater-new-version": "U: 存在新版本。",
+    "l-updater-error-general": "U: 更新时发生错误",
+    "l-updater-error-data": "U: 更新副本/FATE数据时发生错误",
+    "l-updater-error-check": "U: 找不到更新信息。",
+    "l-updater-error-no-url": "U: 找不到更新文件。",
+    "l-updater-error-downloading": "U: 获取更新数据时发生错误。",
+
+    "l-data-updated": "D: 副本/FATE 数据升级到版本 {0}.",
+    "l-data-is-latest": "D: 正在使用最新的 副本/FATE 数据(Version {0}).",
+    "l-data-error": "D: 运行 副本/FATE 数据 时发生错误。",
+
+    "l-packet-error-ip": "P: IP 包解析错误",
+    "l-packet-error-tcp": "P: TCP 包解析错误",
+
+    "l-network-started": "N: 开始读取网络包",
+    "l-network-starting": "N: 开始网络读取...",
+    "l-network-stopped": "N: 停止网络读取",
+    "l-network-stopping": "N: 请求停止网络读取...",
+    "l-network-error-starting": "N: 开启失败",
+    "l-network-error-stopping": "N: 停止失败",
+    "l-network-error-already-started": "N: 成功开启",
+    "l-network-error-already-stopped": "N: 成功停止",
+    "l-network-error-no-connection": "N: 找不到游戏服务器连接",
+    "l-network-error-receiving-packet": "N: 接收网络包时发生错误",
+    "l-network-error-filtering-packet": "N: 过滤网络包时发生错误",
+    "l-network-error-finding-lobby": "N: 获取大厅服务器信息失败",
+    "l-network-detected-connection-closing": "N: 侦测到游戏服务器断开",
+    "l-network-detected-connection": "N: 发现游戏服务器连接： {0}",
+
+    "l-firewall-registered": "FW: 注册",
+    "l-firewall-error": "FW: 注册发生错误",
+
+    "l-analyze-error-length": "A: 分析消息时发生长度错误： {0}, {1}/{2}",
+    "l-analyze-error-general": "A: 分析消息时发生错误",
+    "l-analyze-error": "A: 处理消息时发生错误",
+
+    "l-queue-started-general": "Q: 开始匹配 [{0}]",
+    "l-queue-started-roulette": "Q: 随机副本开始匹配 [{0}]",
+    "l-queue-stopped": "Q: 退出副本区域",
+    "l-queue-entered": "Q: 进入副本区域",
+    "l-queue-matched": "Q: 匹配 [{0}]",
+    "l-queue-updated": "Q: 匹配信息更新 [{0}, {1}, {2}/{3}, {4}/{5}, {6}/{7}]",
+
+    "l-fate-occured-info": "F: {0} FATE 刷新！",
+
+    "l-field-instance-entered": "I: 进入副本区域 [{0}]",
+    "l-field-instance-left": "I: 离开副本区域"
+}
